@@ -1,4 +1,4 @@
-# An-lisis-del-marcado-de-aplicaciones-de-android
+# Anlisis-del-marcado-de-aplicaciones-de-android
 
 Las aplicaciones móviles están en todas partes. Son fáciles de crear y pueden resultar muy lucrativas. Debido a estos dos factores, se están desarrollando cada vez más aplicaciones. En este ejercicio, haremos un análisis completo del mercado de aplicaciones de Android comparando más de diez mil aplicaciones en Google Play en diferentes categorías. Buscaremos información valiosa en los datos para diseñar estrategias que impulsen el crecimiento y la retención.
 
